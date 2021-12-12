@@ -8,11 +8,14 @@
 }
 
 header{
+
     width: 100%;
     background-color: #129799;
+
 }
 
 ul{
+
     width: 100%;
     display: flex;
     justify-content:center;
@@ -25,13 +28,16 @@ li:hover, a:hover{
 
     text-decoration: underline;
     cursor: pointer;
+
 }
 
 li{
+
     margin-left: 5vw;
     list-style: none;
     font-size: 2vw;
     color:white;
+
 }
 
 .life-conteiner{
@@ -41,10 +47,13 @@ li{
 
 }
 h1{
+
     margin-left: 5% ;
     font-size: 4vw;
     color:white;
+
 }
+
 .life-img{
 
     width: 50vw;
@@ -53,15 +62,18 @@ h1{
 }
 
 main{
+
     background-color: #FFA185;
     
 }
 
 .aquarela-conteiner{
+
     padding: 2%;
 }
 
 h2{
+
     padding: 5% 0 3% 3%;
     font-size: 3vw;
     color: white;
@@ -72,6 +84,7 @@ h2{
     width: 70vw;
     font-size: 1.5vw;
     padding: 3% 0 5% 3%;
+
 }
 
 .gallery-conteiner{
@@ -91,11 +104,14 @@ h2{
 }
 
 img{
+
     width: 45vw;
     height: 100%;
+
 }
 
 a{
+
     cursor: grab;
     text-decoration: none;
     color: black;
@@ -104,20 +120,24 @@ a{
     justify-content: center;
     font-weight: bolder;
     font-size: 1.5em;
+
 }
 
 .veja-mais{
 
     padding: 2vh 0 5% 0;
     font-size: 1vw;
+
 }
 
 footer{
+
     background-color: #129799;
     display: flex;
     padding:3%;
     display: flex;
     justify-content: space-between;
+
 }
 
 .redes-conteiner{
@@ -141,6 +161,7 @@ footer{
     width: 3vw;
     height: 5%;
     margin-left: 2.5vw;
+
 }
 
 .navgation-conteiner{
@@ -155,4 +176,5 @@ footer{
 .navgation-conteiner li{
 
     width: 100%;
+    
 }
